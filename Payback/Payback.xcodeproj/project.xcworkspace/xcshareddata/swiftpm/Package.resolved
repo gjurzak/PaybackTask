@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "loaders",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dgrzeszczak/Loaders",
+      "state" : {
+        "revision" : "56a5148b8025b70caaf8a3537777a02be595087a",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "remvvm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReMVVM/ReMVVM",
+      "state" : {
+        "revision" : "f75b43f44e6c0ca1a2b0335be945fc84b03e3703",
+        "version" : "3.1.0"
+      }
+    },
+    {
+      "identity" : "remvvmext-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReMVVM/ReMVVMExt-iOS.git",
+      "state" : {
+        "branch" : "feature/swiftui-view-without-rx",
+        "revision" : "1cb2abca39f2dac2ef45be2d1884e958e47eefd9"
+      }
+    },
+    {
+      "identity" : "ttgsnackbar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zekunyan/TTGSnackbar",
+      "state" : {
+        "revision" : "2edfc948a75ba2d8eaae3ee6031988cacfefa96e",
+        "version" : "1.11.1"
+      }
+    }
+  ],
+  "version" : 2
+}
